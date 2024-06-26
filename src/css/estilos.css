@@ -44,6 +44,7 @@ transition: 0.2s;
 }
 
 .cabecalho .menu li a:hover{
+    scroll-behavior: smooth;
     background-color: #9443d8;
     color: #fff;
     border-radius: 50px;
@@ -81,6 +82,7 @@ transition: 0.2s;
 .home .container-foto .foto{
     background-color: aqua;
     max-width: 450px;
+    height: 450px;
     border-radius: 50%;
 }
 
